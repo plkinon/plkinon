@@ -1,15 +1,26 @@
-Philipp from Karlsruhe, research associate and tech nerd interested in
+Philipp from Karlsruhe, research associate and tech nerd interested in:
 - open source coding
 - numerical integration
 - rigid body dynamics
 
-
 😄 I am using the pronouns he/him and they/them.
+
 🌱 I am always trying to improve my coding and github skills.
 
-Languages:
+### Languages:
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![Matlab](https://img.shields.io/badge/-Matlab-blue)
+
+### Find me:
+
+<p>
+  <a href="mailto:philipp.kinon@kit.edu">
+    <img alt="email" src="https://img.shields.io/badge/email-me-red?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/philipplk">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+</p>
 
 <!--
 **philipplk/philipplk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
