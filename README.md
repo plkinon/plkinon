@@ -3,7 +3,7 @@ Philipp from Karlsruhe, research associate and tech nerd interested in:
 - numerical integration
 - rigid body dynamics
 
-😄 I am using the pronouns he/him and they/them.
+😄 I am using the pronouns they/them and he/him.
 
 🌱 I am always trying to improve my coding and github skills.
 
