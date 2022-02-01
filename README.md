@@ -3,9 +3,9 @@ Philipp from Karlsruhe, research associate and tech nerd interested in:
 - numerical integration
 - rigid body dynamics
 
-😄 I am using they/them pronouns.
+💬 I am using they/them pronouns.
 
-🌱 I am always trying to improve my coding and github skills.
+🔭 I am always trying to improve my coding and github skills.
 
 ### Languages:
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
