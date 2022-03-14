@@ -1,16 +1,22 @@
-Philipp from Karlsruhe, research associate and tech nerd interested in:
+Philipp from Karlsruhe, Germany: research associate and tech nerd.
+
+🤔 I am interested in:
 - open source coding
 - numerical methods in engineering applications
 - structural and solid mechanics
 - dynamical systems structure-preserving integration
 
+
 💬 I am using they/them pronouns.
 
+
 🔭 I am always trying to improve my coding and github skills.
+
 
 ### Languages:
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![Matlab](https://img.shields.io/badge/-Matlab-blue)
+
 
 ### Find me:
 
