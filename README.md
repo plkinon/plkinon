@@ -1,7 +1,8 @@
 Philipp from Karlsruhe, research associate and tech nerd interested in:
 - open source coding
-- numerical integration
-- rigid body dynamics
+- numerical methods in engineering applications
+- structural and solid mechanics
+- dynamical systems structure-preserving integration
 
 💬 I am using they/them pronouns.
 
