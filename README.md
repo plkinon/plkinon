@@ -14,8 +14,13 @@ Philipp from Karlsruhe, Germany: research associate and tech nerd.
 
 
 ### Languages:
-![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![Matlab](https://img.shields.io/badge/-Matlab-blue)
+![Latex](https://img.shields.io/badge/-LaTeX-008080?&logo=LaTeX&?style=plastic)
+![Tikz](https://img.shields.io/badge/-TikZ-000000?&?style=plastic)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?&logo=Markdown)
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
+![Zenodo](https://img.shields.io/badge/-Zenodo-1682D4)
 
 
 ### Find me:
