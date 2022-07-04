@@ -2,10 +2,10 @@ Philipp from Karlsruhe, Germany: research associate and tech nerd.
 
 🤔 I am interested in:
 - open source coding
+- machine learning and neural networks
 - numerical methods in engineering applications
-- structural and solid mechanics
-- dynamical systems structure-preserving integration
-
+- structure-preserving integration
+- structural and solid mechanics, elastodynamics
 
 💬 I am using they/them pronouns.
 
