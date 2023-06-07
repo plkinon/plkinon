@@ -1,13 +1,12 @@
-Philipp from Karlsruhe, Germany: research associate and tech nerd.
+Philipp from Karlsruhe, Germany: research associate and open source fan.
 
 🤔 I am interested in:
 - open source coding
-- machine learning and neural networks
-- numerical methods in engineering applications
-- structure-preserving integration
+- numerical methods in engineering
+- simulation and control of port-Hamiltonian systems
 - structural and solid mechanics, elastodynamics
 
-💬 I am using they/them pronouns.
+💬 I prefer they/them pronouns.
 
 
 🔭 I am always trying to improve my coding and github skills.
