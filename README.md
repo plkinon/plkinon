@@ -2,8 +2,8 @@ Philipp from Karlsruhe, Germany: research associate and open source fan.
 
 🤔 I am interested in:
 - open source coding
-- numerical methods in engineering
-- simulation and control of port-Hamiltonian systems
+- (geometric) numerical methods
+- simulation and control of multibody system dynamics and port-Hamiltonian systems
 - structural and solid mechanics, elastodynamics
 
 💬 I prefer they/them pronouns.
