@@ -1,4 +1,4 @@
-Philipp from Karlsruhe, Germany: research associate and open source fan.
+Philipp from Karlsruhe, Germany: doctoral researcher and open source fan.
 
 🤔 I am interested in:
 - open source coding
@@ -20,6 +20,7 @@ Philipp from Karlsruhe, Germany: research associate and open source fan.
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![Zenodo](https://img.shields.io/badge/-Zenodo-1682D4)
+![Julia](https://img.shields.io/badge/-Julia-8C5BAD?&logo=Julia&logoColor=fff)
 
 
 ### Find me:
