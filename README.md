@@ -2,7 +2,7 @@ Philipp from Karlsruhe, Germany: doctoral researcher and open source fan.
 
 🤔 I am interested in:
 - open source coding
-- (geometric) numerical methods
+- (geometric) numerical methods (in space and/or time)
 - simulation and control of multibody system dynamics and port-Hamiltonian systems
 - structural and solid mechanics, elastodynamics
 
