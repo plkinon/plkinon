@@ -26,6 +26,9 @@ Philipp from Karlsruhe, Germany: doctoral researcher and open source fan.
 ### Find me:
 
 <p>
+  <a href="https://www.researchgate.net/profile/Philipp-Kinon">
+    <img alt="RG" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />
+  </a>
   <a href="mailto:philipp.kinon@kit.edu">
     <img alt="email" src="https://img.shields.io/badge/email-me-red?style=for-the-badge" />
   </a>
