@@ -12,13 +12,13 @@ Philipp from Karlsruhe, Germany: doctoral researcher and open source fan.
 🔭 I am always trying to improve my coding and github skills.
 
 
-### Languages:
-![Matlab](https://img.shields.io/badge/-Matlab-blue)
+### Skills:
+![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![Latex](https://img.shields.io/badge/-LaTeX-008080?&logo=LaTeX&?style=plastic)
 ![Tikz](https://img.shields.io/badge/-TikZ-000000?&?style=plastic)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?&logo=Markdown)
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
+![Matlab](https://img.shields.io/badge/-Matlab-blue)
 ![Zenodo](https://img.shields.io/badge/-Zenodo-1682D4)
 ![Julia](https://img.shields.io/badge/-Julia-8C5BAD?&logo=Julia&logoColor=fff)
 
