@@ -19,7 +19,7 @@ Currently located in **Karlsruhe, Germany**, I am  engaged in research and devel
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,python,latex,markdown,vscode,matlab,anaconda,apple,bash,discord,linkedin&perline=4" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,python,latex,markdown,vscode,matlab,anaconda,apple,bash,discord,linkedin" />
   </a>
 </p>
 
@@ -31,8 +31,6 @@ Currently located in **Karlsruhe, Germany**, I am  engaged in research and devel
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=plkinon&show_icons=true&theme=dark)
 ![plkinon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=plkinon&theme=dark&hide_border=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plkinon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=plkinon&theme=dracula)
-![Contributions Heatmap](https://github-contributions-svg.vercel.app/api?username=plkinon&format=long&theme=radical)
 
 
 ## Contact me
