@@ -25,6 +25,7 @@ Currently located in **Karlsruhe, Germany**, I am  engaged in research and devel
 
 ## Some Projects
 
+[![pydykit](https://github-readme-stats.vercel.app/api/pin/?username=pydykit&repo=pydykit&theme=dark)](https://github.com/pydykit/pydykit)
 [![metis](https://github-readme-stats.vercel.app/api/pin/?username=plkinon&repo=metis&theme=dark)](https://github.com/plkinon/metis)
 [![familytreemaker](https://github-readme-stats.vercel.app/api/pin/?username=plkinon&repo=familytreemaker&theme=dark)](https://github.com/plkinon/familytreemaker)
 
