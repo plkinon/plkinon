@@ -31,7 +31,6 @@ Currently located in **Karlsruhe, Germany**, I am  engaged in research and devel
 
 ## GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=plkinon&show_icons=true&theme=dark)
-![plkinon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=plkinon&theme=dark&hide_border=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plkinon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
