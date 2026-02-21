@@ -1,12 +1,12 @@
 ## Hi there! 👋
 
-I'm **Philipp**, a passionate PhD student and researcher, exploring the fascinating world of dynamical systems and numerical methods. Let's build something great together!
+I'm **Phi**, a PhD student and research associate, exploring the world of dynamical systems and numerical methods. Let's build something together!
 
 ## About Me 🤔
 
 Currently located in **Karlsruhe, Germany**, I am  engaged in research and development at the Karlsruhe Institute of Technology (KIT). I am interested in:
 - Open source coding
-- Dynamical systems with added structure
+- Structure dynamical systems (Hamiltonian, port-Hamiltonian, symplectic, ...)
 - (Structure-preserving) numerical methods 
 
 💬 I prefer they/them pronouns.
