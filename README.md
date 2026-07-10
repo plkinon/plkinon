@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Phi**, a PhD student and research associate, exploring the world of dynamical systems and numerical methods. Let's build something together!
+I'm **Phi**, a post-doc and research associate, exploring the world of dynamical systems and numerical methods. Let's build something together!
 
 ## About Me 🤔
 
