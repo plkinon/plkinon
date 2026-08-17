@@ -4,7 +4,7 @@ I'm **Phi**, a post-doc and research associate, exploring the world of dynamical
 
 ## About Me 🤔
 
-Currently located in **Karlsruhe, Germany**, I am  engaged in research and development at the Karlsruhe Institute of Technology (KIT). I am interested in:
+Currently located in **Leipzig, Germany**, I am  engaged in research and development at the Institutes of Mathematics at both Chemnitz University of Technology an TU Ilmenau. I am interested in:
 - Open source coding
 - Dynamical systems (Hamiltonian, port-Hamiltonian, symplectic, ...)
 - (Structure-preserving) numerical methods 
@@ -37,7 +37,7 @@ Currently located in **Karlsruhe, Germany**, I am  engaged in research and devel
 ## Contact me
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:philipp.kinon@kit.edu)
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=flat-square&logo=safari&logoColor=white)](https://www.ifm.kit.edu/english/14_5490.php)
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=flat-square&logo=safari&logoColor=white)](https://plkinon.org)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Philipp-Kinon)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=9hNOUG0AAAAJ)
 [![Discord](https://img.shields.io/badge/Discord-Profile-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1164951876706500718)
