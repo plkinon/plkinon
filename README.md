@@ -24,17 +24,6 @@ Currently located in **Leipzig, Germany**, I am  engaged in research and develop
   </a>
 </p>
 
-## Some Projects
-
-[![pydykit](https://github-readme-stats.vercel.app/api/pin/?username=pydykit&repo=pydykit&theme=dark)](https://github.com/pydykit/pydykit)
-[![metis](https://github-readme-stats.vercel.app/api/pin/?username=plkinon&repo=metis&theme=dark)](https://github.com/plkinon/metis)
-[![familytreemaker](https://github-readme-stats.vercel.app/api/pin/?username=plkinon&repo=familytreemaker&theme=dark)](https://github.com/plkinon/familytreemaker)
-
-## GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=plkinon&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plkinon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Contact me
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:phi.kinon@math.tu-chemnitz.de)
